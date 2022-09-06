@@ -21,7 +21,7 @@
 ### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
 
 - Software Engineer by day, sports enthusiast by night. occasionally a graphic designer.
-- Android Software Engineer at [Shift inc.](https://shiftinc.com/)
+- Android Software Engineer at [4sale International Co.](https://www.q84sale.com/en)
 - Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
 - Contributor at [OpenBytes](https://github.com/Open-Bytes)
 
@@ -42,8 +42,10 @@
 
    - ### Android sample Apps
 
-|       **Repo**                                                             |    **Language**          |                                   **Description**                                                                              |
-| -------------------------------------------------------------------------- | -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
+| **Repo**                                                                   |    **Language**          |                                   **Description**                                                                              |
+|----------------------------------------------------------------------------| -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
+| [Calory Tracking App ](https://github.com/MhmoudAlim/CaloryTrackingApp)    |     **Kotlin**           | A work on progress clean architecture, multi-module architecture concept app, implementing new technologies from Google and best practices.
+| [Burgers](https://github.com/MhmoudAlim/BurgersItem)                       |     **Kotlin**           | This application show list of top seller burgers from different restaurants from a pre-populated database in the assets directory using Room combined with burgers items form Rest api, with unit testes integrated.
 |   [Currency](https://github.com/MhmoudAlim/Currency)                       |     **Kotlin**           | A Modular Clean Architecture proof-of-concept Android app designed to help customers to handle different currency conversions.
 |   [Compose Poc](https://github.com/MhmoudAlim/ComposePocTask)              |     **Kotlin**           | A Modular Clean Architecture proof-of-concept Jetpack compose UI to load Food delivery service app Home screen UI parsed from a Json local file.    
 |   [News App](https://github.com/MhmoudAlim/NewsApp)                        |     **Kotlin**           | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database. 
