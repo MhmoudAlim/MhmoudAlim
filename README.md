@@ -22,8 +22,9 @@
 
 - Software Engineer by day, sports enthusiast by night. occasionally a graphic designer.
 - Android Software Engineer at [4sale International Co.](https://www.q84sale.com/en)
-- Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
 - Contributor at [OpenBytes](https://github.com/Open-Bytes)
+- Organizer & Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
+- Organizer at [Android Worldwide](https://android-worldwide.com)  
 
 
 ---
