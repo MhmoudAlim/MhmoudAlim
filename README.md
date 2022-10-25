@@ -1,8 +1,10 @@
-# Hello there, I'm Mahmoud Alim 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=400&height=40&lines=👋+Hello there,+I+am+Mahmoud+Alim;+Welcome+to+My+Github+Profile!.)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="280" height="280"  alt="MahmoudAlimLogo"/>
+<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="200" height="200"  alt="MahmoudAlimLogo"/>
 </p>
+
 
 <br/>
 
