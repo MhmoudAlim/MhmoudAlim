@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&width=432&height=53&lines=%F0%9F%91%8B++Hello+there%2C+I+am+Mahmoud+Alim;Welcome+to+personal+Github+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&width=432&height=53&lines=%F0%9F%91%8B++Hello+there%2C+I+am+Mahmoud+H.+Alim;Welcome+to+personal+Github+profile.)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="200" height="200"  alt="MahmoudAlimLogo"/>
 </p>
