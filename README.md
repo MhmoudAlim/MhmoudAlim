@@ -30,6 +30,7 @@
 
 ---
 
+<br/>
 
 - # Projects
 
@@ -43,7 +44,6 @@
 
 <br/>
 
-______
 
 
 - ### Android sample Apps
@@ -71,7 +71,7 @@ ______
 
 <br/>
 
-______
+
 
 - ### Other Projects
 
@@ -81,10 +81,11 @@ ______
 | [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                          | **Java-Kotlin** | This Repo is a studying and practicing GOF design patterns.                                                                        |
 | [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                     | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
 
-
 <br/>
 
 ______
+
+<br/>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudalim&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mhmoudalim" /></p>
