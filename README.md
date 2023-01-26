@@ -36,42 +36,44 @@
 
 - ### Open Source projects
 
-|       **Repo**            |   **Language** |   **Description**                                                                            |
-| ------------------------- | ---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   [ComposeRatingBar](https://github.com/MhmoudAlim/Compose-Ratingbar-library)  |  **Kotlin** | a simple yet customizable implementation for a rating bar view by **JetpackCompose.**
+| **Repo**                                                                    | **Language** | **Description**                                                                       |
+|-----------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------|
+| [ComposeRatingBar](https://github.com/MhmoudAlim/Compose-Ratingbar-library) | **Kotlin**   | a simple yet customizable implementation for a rating bar view by **JetpackCompose.** |
 
 <br/>
 
    - ### Android sample Apps
 
-| **Repo**                                                                   |    **Language**          |                                   **Description**                                                                              |
-|----------------------------------------------------------------------------| -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
-| [Calory Tracking App ](https://github.com/MhmoudAlim/CaloryTrackingApp)    |     **Kotlin**           | A work on progress clean architecture, multi-module architecture concept app, implementing new technologies from Google and best practices.
-| [Burgers](https://github.com/MhmoudAlim/BurgersItem)                       |     **Kotlin**           | This application show list of top seller burgers from different restaurants from a pre-populated database in the assets directory using Room combined with burgers items form Rest api, with unit testes integrated.
-|   [Currency](https://github.com/MhmoudAlim/Currency)                       |     **Kotlin**           | A Modular Clean Architecture proof-of-concept Android app designed to help customers to handle different currency conversions.
-|   [Compose Poc](https://github.com/MhmoudAlim/ComposePocTask)              |     **Kotlin**           | A Modular Clean Architecture proof-of-concept Jetpack compose UI to load Food delivery service app Home screen UI parsed from a Json local file.    
-|   [News App](https://github.com/MhmoudAlim/NewsApp)                        |     **Kotlin**           | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database. 
-|   [Pics App](https://github.com/MhmoudAlim/PicsApp)                        |     **Kotlin**           | A pics search App project to fetch photos from Unsplash , search photos and browse users profiles and photos.
-|   [Calculator Challenge](https://github.com/MhmoudAlim/CalculatorChallenge)|     **Kotlin**           | This project is part of an Android Technical calculator challenge for a job interview.
-|   [Farida 2](https://github.com/MhmoudAlim/Farida2)                        |     **Kotlin**           | This project is a kids educational app for kids with hearing problems.
-|   [Spotify Clone](https://github.com/MhmoudAlim/Spotify-Clone)             |     **Kotlin**           | A **WIP** Music player APP streaming Music form a cloud provider.
-|   [Homey App](https://github.com/MhmoudAlim/Homey-App)                     |     **Java**             | Homey is a sample app with an online shopping Store for a specific home ceilings and appliance for modern house finishing.
-|   [Homey Admin App](https://github.com/MhmoudAlim/Homey-AdminApp)          |     **Java**             | A sample Dashboard Admin app for [Homey App](https://github.com/MhmoudAlim/Homey-App)
-|   [Receiver App](https://github.com/MhmoudAlim/Receiver-App)               |     **Java**             | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).
-|   [MiddleMan App](https://github.com/MhmoudAlim/MiddleMan-App)             |     **Java**             | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).
-|   [Farida](https://github.com/MhmoudAlim/Farida)                           |     **Java**             | This project is a kids educational app for kids with hearing problems.
-|   [Metro App](https://github.com/MhmoudAlim/Metro-App)                     |     **Java**             |  Android native application to calculate the distance, time and ticket price between Cairo metro stations all 3 lines and make use of Android geolocation Api and Maps SDK.
+| **Repo**                                                                  | **Language**     | **Description**                                                                                                                                                                                                              |
+|---------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Translator](https://github.com/MhmoudAlim/Translator)                    | **Kotlin-Swift** | A work-on-progress Koltin multi platform mobile app for a production ready native Android and iOS native apps using Text-to speech and word translation features.                                                            |
+| [Premium](https://github.com/MhmoudAlim/Premuim)                          | **Kotlin**       | Premium is a poc Android app designed to display information about The English Premium League.                                                                                                                               |
+| [Calory Tracking App](https://github.com/MhmoudAlim/CaloryTrackingApp)    | **Kotlin**       | A work on progress clean architecture, multi-module architecture concept app, implementing new technologies from Google and best practices.                                                                                  |
+| [Mars Rover](https://github.com/MhmoudAlim/MarsRover)                     | **Kotlin**       | Mars Rover is a proof-of-concept Android app designed to data gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars and make it more easily available to other developers, educators, and citizen scientists. |
+| [Burgers](https://github.com/MhmoudAlim/BurgersItem)                      | **Kotlin**       | This application show list of top seller burgers from different restaurants from a pre-populated database in the assets directory using Room combined with burgers items form Rest api, with unit testes integrated.         |
+| [Currency](https://github.com/MhmoudAlim/Currency)                        | **Kotlin**       | A Modular Clean Architecture proof-of-concept Android app designed to help customers to handle different currency conversions.                                                                                               |
+| [Compose Poc](https://github.com/MhmoudAlim/ComposePocTask)               | **Kotlin**       | A Modular Clean Architecture proof-of-concept Jetpack compose UI to load Food delivery service app Home screen UI parsed from a Json local file.                                                                             |
+| [News App](https://github.com/MhmoudAlim/NewsApp)                         | **Kotlin**       | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database.                                                                             |
+| [Pics App](https://github.com/MhmoudAlim/PicsApp)                         | **Kotlin**       | A pics search App project to fetch photos from Unsplash , search photos and browse users profiles and photos.                                                                                                                |
+| [Calculator Challenge](https://github.com/MhmoudAlim/CalculatorChallenge) | **Kotlin**       | This project is part of an Android Technical calculator challenge for a job interview.                                                                                                                                       |
+| [Farida 2](https://github.com/MhmoudAlim/Farida2)                         | **Kotlin**       | This project is a kids educational app for kids with hearing problems.                                                                                                                                                       |
+| [Spotify Clone](https://github.com/MhmoudAlim/Spotify-Clone)              | **Kotlin**       | A **WIP** Music player APP streaming Music form a cloud provider.                                                                                                                                                            |
+| [Homey App](https://github.com/MhmoudAlim/Homey-App)                      | **Java**         | Homey is a sample app with an online shopping Store for a specific home ceilings and appliance for modern house finishing.                                                                                                   |
+| [Homey Admin App](https://github.com/MhmoudAlim/Homey-AdminApp)           | **Java**         | A sample Dashboard Admin app for [Homey App](https://github.com/MhmoudAlim/Homey-App)                                                                                                                                        |
+| [Receiver App](https://github.com/MhmoudAlim/Receiver-App)                | **Java**         | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).                                                                                                      |
+| [MiddleMan App](https://github.com/MhmoudAlim/MiddleMan-App)              | **Java**         | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).                                                                                                      |
+| [Farida](https://github.com/MhmoudAlim/Farida)                            | **Java**         | This project is a kids educational app for kids with hearing problems.                                                                                                                                                       |
+| [Metro App](https://github.com/MhmoudAlim/Metro-App)                      | **Java**         | Android native application to calculate the distance, time and ticket price between Cairo metro stations all 3 lines and make use of Android geolocation Api and Maps SDK.                                                   |
 
 <br/>
 
 - ### Other Projects
 
-|       **Repo**                                                                                        |    **Language**   |                                   **Description**                                                                              |
-| ------------------------------------------------------------------------------------------------------- | ------------------| -------------------------------------------------------------------------------------------------------------------------------|
-|   [Movie Recommendation System](https://github.com/MhmoudAlim/movie-recommendation-system)            |    **Java**         | The Movie Recommendation System Projects represents a real world app example: it provides a fairly complex set of functionalities.                        |
-|   [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                                     |    **Java/Kotlin**         | This Repo is a studying and practicing GOF design patterns.
-|   [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                                |    **Java/Kotlin**  | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.
-
+| **Repo**                                                                                 | **Language**    | **Description**                                                                                                                    |
+|------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
+| [Movie Recommendation System](https://github.com/MhmoudAlim/movie-recommendation-system) | **Java**        | The Movie Recommendation System Projects represents a real world app example: it provides a fairly complex set of functionalities. |
+| [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                          | **Java-Kotlin** | This Repo is a studying and practicing GOF design patterns.                                                                        |
+| [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                     | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
 
 ______
 
