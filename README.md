@@ -21,7 +21,7 @@
 
 ### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
 
-- Software Engineer by day, sports enthusiast by night. occasionally a graphic designer.
+- Software Engineer by day, sports enthusiast by night. and occasionally a graphic designer.
 - Android Software Engineer at [4sale International Co.](https://www.q84sale.com/en)
 - Contributor at [OpenBytes](https://github.com/Open-Bytes)
 - Organizer & Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
@@ -82,6 +82,9 @@ ______
 | [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                     | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
 
 
+<br/>
+
+______
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudalim&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mhmoudalim" /></p>
