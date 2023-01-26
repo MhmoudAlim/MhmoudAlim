@@ -17,7 +17,7 @@
 
 ---
 
-- ## About me :
+- # About me :
 
 ### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
 
@@ -30,7 +30,8 @@
 
 ---
 
-- ## Projects :
+
+- # Projects
 
 <br/>
 
@@ -42,12 +43,15 @@
 
 <br/>
 
-   - ### Android sample Apps
+______
+
+
+- ### Android sample Apps
 
 | **Repo**                                                                  | **Language**     | **Description**                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Translator](https://github.com/MhmoudAlim/Translator)                    | **Kotlin-Swift** | A work-on-progress Koltin multi platform mobile app for a production ready native Android and iOS native apps using Text-to speech and word translation features.                                                            |
-| [Premium](https://github.com/MhmoudAlim/Premuim)                          | **Kotlin**       | Premium is a poc Android app designed to display information about The English Premium League.                                                                                                                               |
+| [Premium](https://github.com/MhmoudAlim/Premium)                          | **Kotlin**       | Premium is a poc Android app designed to display information about The English Premium League.                                                                                                                               |
 | [Calory Tracking App](https://github.com/MhmoudAlim/CaloryTrackingApp)    | **Kotlin**       | A work on progress clean architecture, multi-module architecture concept app, implementing new technologies from Google and best practices.                                                                                  |
 | [Mars Rover](https://github.com/MhmoudAlim/MarsRover)                     | **Kotlin**       | Mars Rover is a proof-of-concept Android app designed to data gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars and make it more easily available to other developers, educators, and citizen scientists. |
 | [Burgers](https://github.com/MhmoudAlim/BurgersItem)                      | **Kotlin**       | This application show list of top seller burgers from different restaurants from a pre-populated database in the assets directory using Room combined with burgers items form Rest api, with unit testes integrated.         |
@@ -67,6 +71,8 @@
 
 <br/>
 
+______
+
 - ### Other Projects
 
 | **Repo**                                                                                 | **Language**    | **Description**                                                                                                                    |
@@ -75,7 +81,8 @@
 | [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                          | **Java-Kotlin** | This Repo is a studying and practicing GOF design patterns.                                                                        |
 | [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                     | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
 
-______
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudalim&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mhmoudalim" /></p>
 
