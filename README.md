@@ -13,22 +13,33 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=flat&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
 [![MailL](https://img.shields.io/static/v1?color=blue&label=Gmail%20&logo=gmail&logoColor=white&style=flat&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
 
-</p>
 
 ---
 
 - # About me :
 
-### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
+### I am an Android Software Engineer, Kotlin Enthusiast, who loves plants, software architecture, and mobile security.
+### I'm like a plant-loving, code-writing, security-minded superhero, here to build beautiful apps, and make peace obviously :v:.
 
-- Software Engineer by day, sports enthusiast by night. and occasionally a graphic designer.
+<br/>
+
+- Imposter Software Engineer by day, Imposter Farmer by night :seedling:.
+- Don't take the first point too seriously :satisfied:
 - Android Software Engineer at [4sale International Co.](https://www.q84sale.com/en)
 - Contributor at [OpenBytes](https://github.com/Open-Bytes)
 - Organizer & Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
-- Organizer at [Android Worldwide](https://android-worldwide.com)  
+- Organizer at [Android Worldwide](https://android-worldwide.com)
+- I used to be a Cycler :bike:. and I love plants in case you didn't notice yet :smile:
 
 
 ---
+
+## Things I am passionate about
+
+- Android :robot:
+- Architecture  :love_hotel:
+- Security :closed_lock_with_key:
+- Open source :octocat:
 
 <br/>
 
@@ -73,13 +84,14 @@
 
 
 
-- ### Other Projects
+- ### Other Repos
 
-| **Repo**                                                                                 | **Language**    | **Description**                                                                                                                    |
-|------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| [Movie Recommendation System](https://github.com/MhmoudAlim/movie-recommendation-system) | **Java**        | The Movie Recommendation System Projects represents a real world app example: it provides a fairly complex set of functionalities. |
-| [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                          | **Java-Kotlin** | This Repo is a studying and practicing GOF design patterns.                                                                        |
-| [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                     | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
+| **Repo**                                                                          | **Language** | **Description**                                                                                                                    |
+|-----------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------|
+| [Movie Recommendation System](https://github.com/MhmoudAlim/movie-recommendation-system) | **Java**   | The Movie Recommendation System Projects represents a real world app example: it provides a fairly complex set of functionalities. |
+| [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                   | **Java-Kotlin** | This Repo is a studying and practicing GOF design patterns.                                                                        |
+| [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)              | **Java-Kotlin** | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.                                      |
+| [Algorithmic-Challenges](https://github.com/MhmoudAlim/Algorithmic-Challenges)     | **Kotlin** | In this Repo contains Practice applying essential algorithmic techniques Course by Jerbrains s.r.o                                 |
 
 <br/>
 
