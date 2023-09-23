@@ -34,7 +34,7 @@
 
 ---
 
-## Things I am passionate about
+- ## Things I am passionate about
 - Android :robot:
 - Architecture  :love_hotel:
 - Security :closed_lock_with_key:
