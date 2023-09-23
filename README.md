@@ -40,10 +40,7 @@
 - Security :closed_lock_with_key:
 - Open source :octocat:
 
-
 ---
-
-<br/>
 
 - # Projects
 
@@ -51,13 +48,11 @@
 
 - ### Open Source projects
 
-| **Repo**                                                                    | **Language** | **Description**                                                                       |
-|-----------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------|
-| [ComposeRatingBar](https://github.com/MhmoudAlim/Compose-Ratingbar-library) | **Kotlin**   | a simple yet customizable implementation for a rating bar view by **JetpackCompose.** |
+| **Repo**                                                                    | **Language** | **Description**                                                                                                                                                                |
+|-----------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ComposeRatingBar](https://github.com/MhmoudAlim/Compose-Ratingbar-library) | **Kotlin**   | Listed in [Android Arsenal](https://android-arsenal.com/details/1/8384)  , this is a simple yet customizable implementation for a rating bar in Android with **JetpackCompose.** |
 
 <br/>
-
-______
 
 
 - ### Android sample Apps
