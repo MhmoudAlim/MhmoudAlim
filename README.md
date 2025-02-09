@@ -1,44 +1,111 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&width=432&height=53&lines=%F0%9F%91%8B++Hello+there%2C+I+am+Mahmoud+H.+Alim;Welcome+to+personal+Github+profile.)](https://git.io/typing-svg)
-<p align="center">
-<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="200" height="200"  alt="MahmoudAlimLogo"/>
-</p>
+
+
+<div align="center">
+  <img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="200" height="200" alt="MahmoudAlimLogo"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/mhmoud_alim">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mhmoud-alim">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahmoudhusseinalim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+### Senior Software Engineer, Kotlin Enthusiast, Crafting scalable mobile solutions with Kotlin, specializing in design systems, clean architecture, and secure development practices. Building tomorrow's Android experiences today.
+
+<br/>
+
+```kotlin
+object MahmoudAlim {
+    val identity = Developer(
+        name = "Mahmoud H. Alim",
+        title = "Senior Android Engineer",
+        motto = "Software Engineer by day, Plant Scientist by night 🌱"
+    )
+
+    val currentRoles = roles {
+        professional(
+            "Senior Android Engineer" to "Transflo",
+            "Design System Advocate" to "4Sale International"
+        )
+
+        community(
+            "Core Contributor" to "OpenBytes",
+            "Organizer & Designer" to "GDG Helwan",
+            "Community Lead" to "Android Worldwide"
+        )
+    }
+
+    val expertise = skills {
+        android {
+            mastery("Kotlin", "Jetpack Compose", "KMP")
+            passionate("Clean Architecture", "Mobile Security")
+            learning("System Design", "Design Systems")
+        }
+
+        designSystems {
+            implementation(
+                "Component Libraries",
+                "Design Tokens",
+                "Style Guidelines"
+            )
+            tools(
+                "Figma" to "Design Collaboration",
+                "Material Design" to "Design Language"
+            )
+        }
+
+        architecture {
+            patterns("MVVM", "MVI", "Clean", "Modular")
+            principles("SOLID", "KISS", "DRY")
+            belief("Good architecture is like a good joke - if you have to explain it, it's bad 😄")
+        }
+
+        testing {
+            approach("Test First, Code Later 🎯")
+            tools("JUnit", "Mockk", "Compose-ui")
+            philosophy("If it moves, test it 🧪")
+        }
+    }
+
+    val superPowers = listOf(
+        "Turning Coffee into Code ☕",
+        "Architecture Wizard 🏰",
+        "Design Systems Craftsman 🎨",
+        "Bug Hunter 🐛",
+        "Plant Whisperer 🌱"
+    )
+
+    val lifePhilosophy = """
+        while(alive) {
+            code()
+            learn()
+            grow()
+            drinkCoffee()
+            debugPlants()
+            repeat()
+        }
+    """.trimIndent()
+}
+
+```
 
 
 <br/>
 
-<p align="center">
-
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=flat&message=Follow)](https://twitter.com/mhmoud_alim)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=flat&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
-[![MailL](https://img.shields.io/static/v1?color=blue&label=Gmail%20&logo=gmail&logoColor=white&style=flat&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
-
-
----
-
-- # About me :
-
-### I am an Android Software Engineer, Kotlin Enthusiast, who loves plants, software architecture, and mobile security.
-### I'm like a plant-loving, code-writing, security-minded superhero, here to build beautiful apps, and make peace obviously :v:.
-
-<br/>
-
-- Imposter Software Engineer by day, Imposter Farmer by night :seedling:.
-- Don't take the first point too seriously :satisfied:
-- Android Software Engineer at [4sale International Co.](https://www.q84sale.com/en)
-- Contributor at [OpenBytes](https://github.com/Open-Bytes)
-- Organizer & Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
-- Organizer at [Android Worldwide](https://android-worldwide.com)
-- I used to be a Cycler :bike:. and I love plants in case you didn't notice yet :smile:
-
-
----
-
-- ## Things I am passionate about
-- Android :robot:
-- Architecture  :love_hotel:
-- Security :closed_lock_with_key:
-- Open source :octocat:
 
 ---
 
